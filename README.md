@@ -102,19 +102,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or suggestions, please contact us at [contact@erysa.fun](mailto:contact@erysa.fun).
-
-```
-
----
-
-**Additional Recommendations:**
-
-- **Documentation:** Provide detailed documentation for each module, including code comments and usage examples.
-
-- **Issue Tracking:** Utilize GitHub Issues to track bugs and feature requests.
-
-- **Continuous Integration:** Set up CI/CD pipelines to automate testing and deployment.
-
-- **Community Engagement:** Encourage community involvement by providing contribution guidelines and a code of conduct.
-
-By following this structure, you'll create a well-documented and user-friendly GitHub repository that effectively showcases your AI project.
